@@ -1,0 +1,11 @@
+body {
+    background-color: azure;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12;
+}
+
+h1 {
+    color: burlywood;
+    text-align: center;
+    text-decoration: cornflowerblue;
+}
