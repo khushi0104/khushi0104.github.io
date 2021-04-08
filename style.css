@@ -1,11 +1,11 @@
 body {
-    background-color: azure;
+    background-color: darkkhaki;
     font-family: 'Times New Roman', Times, serif;
     font-size: 12;
 }
 
 h1 {
-    color: burlywood;
+    color: rgb(26, 74, 231);
     text-align: center;
-    text-decoration: cornflowerblue;
+    text-decoration: rgb(243, 3, 3);
 }
